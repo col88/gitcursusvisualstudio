@@ -10,6 +10,9 @@ namespace GIT_Integration_met_VS
     {
         static void Main(string[] args)
         {
+
+
+            Console.WriteLine("Hallo");
         }
     }
 }
