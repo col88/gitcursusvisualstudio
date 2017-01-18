@@ -12,7 +12,7 @@ namespace GIT_Integration_met_VS
         {
 
 
-            Console.WriteLine("Hallo");
+            Console.WriteLine("Hallo  allemaal");
         }
     }
 }
